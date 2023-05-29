@@ -33,6 +33,8 @@ Source: https://www.javatpoint.com/software-engineering-software-development-lif
 1. *Deployment* - Going live into production.
 1. *Maintenance* - Monitoring systems health and fix errors when arises.
 
+Throughout the SDLC process, *Documentation* is key.
+
 ---
 
 ## Part 2 - Software Testing Methods
